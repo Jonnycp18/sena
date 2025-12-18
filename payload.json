@@ -1,0 +1,10 @@
+{
+  "materia_id": 0,
+  "ficha_id": 0,
+  "evidencia_nombre": "Prueba Evidencia",
+  "rows": [
+    {"documento":"123","correo":"a@b.com","estudiante":"Ana","valor":"Aprobado"},
+    {"documento":"456","correo":"c@d.com","estudiante":"Carlos","valor":"Reprobado"},
+    {"documento":"789","correo":"e@f.com","estudiante":"Eva","valor":"No entregó"}
+  ]
+}
